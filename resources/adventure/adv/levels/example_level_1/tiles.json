@@ -1,0 +1,46 @@
+{
+	"key": [
+		{
+			"key": "e",
+			"identifier": {
+				"domain": "coresystem",
+				"entry": "example_tile"
+			}
+		},
+		{
+			"key": "a",
+			"sheet": {
+				"identifier": {
+					"domain": "casketofazamgarath",
+					"entry": "test_tile"
+				}
+			}
+		}
+	],
+	"map": [
+		[
+			"e",
+			"e",
+			"e",
+			"e"
+		],
+		[
+			"e",
+			"a",
+			"e",
+			"a"
+		],
+		[
+			"a",
+			"e",
+			"a",
+			"e"
+		],
+		[
+			"a",
+			"a",
+			"a",
+			"a"
+		]
+	]
+}

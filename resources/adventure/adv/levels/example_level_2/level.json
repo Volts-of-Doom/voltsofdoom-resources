@@ -1,0 +1,8 @@
+{
+	"identifier": {
+		"domain": "coresystem",
+		"entry": "example_level_2"
+	},
+	"displayName": "Example Level 2",
+	"description": "A second wonderful example of a level!"
+}
