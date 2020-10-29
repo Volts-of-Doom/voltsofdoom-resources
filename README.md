@@ -1,2 +1,2 @@
 # voltsofdoom-resources
-Located in: ```AppData/Roaming/zapbyte/voltsofdoom```
+Located in: ```AppData/Roaming/zapbyte/```
