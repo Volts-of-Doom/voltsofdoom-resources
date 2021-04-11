@@ -1,0 +1,9 @@
+{
+	"texturePackName": "Volts of Doom Default Textures",
+	"mappings": {
+		"tile_1": "textures/tile_1.png",
+		"tile_2": "textures/tile_2.png",
+		"entity_1": "textures/entity_1.png",
+		"entity_2": "textures/entity_2.png"
+	}
+}
